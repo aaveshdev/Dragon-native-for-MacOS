@@ -1,2 +1,2 @@
-# Dragon-native-for-MacOS
+# Dragon native for MacOS
 https://www.dragon-lang.org
